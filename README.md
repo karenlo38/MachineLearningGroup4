@@ -18,10 +18,14 @@ UCI Heart Disease Dataset
 Random Forest Classifier
 
 ## How to Run
+
+## Dataset
 1. Open /data folder.
 2. The dataset file (uci_heart_disease.csv) will be in the folder.
-3. Open /code folder.
-4. Open the complete coding file (07_final.coding.ipynb) provided in the project folder.
+
+## Coding
+1. Open /code folder.
+2. Open the complete coding file (07_final.coding.ipynb) provided in the project folder.
 
 
 ## Contributors

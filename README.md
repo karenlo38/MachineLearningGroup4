@@ -34,3 +34,12 @@ Random Forest Classifier
 - Shinty Tam Kok Kiong | BI23160407
 - Karen Lo Xin Xuan | BI23110308
 - Fidaa' Bin Ahmad Fahmi | BI23110057
+
+## Materials
+YouTube Links:
+Milestone 1: https://youtu.be/tbxVYEg6Bqc?si=9HmUvLbxL48B6tVy
+Milestone 2: https://youtu.be/zi94j_lCvpo
+Milestone 3: https://youtu.be/mnPmJL9AAOY
+Milestone 4: https://youtu.be/zznC8b9yyXM
+Milestone 5: https://youtu.be/bzI3X0pc1Ic
+GitHub: https://github.com/karenlo38/MachineLearningGroup4/tree/main

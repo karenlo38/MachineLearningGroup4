@@ -29,8 +29,8 @@ Random Forest Classifier
 
 
 ## Contributors
-- Asran
-- Emely
-- Shin
-- Karen
-- Fidaa
+- Mohd Asran Bin Lataga | BI23110327
+- Emely Thu Jia Wei | BI23110306
+- Shinty Tam Kok Kiong | BI23160407
+- Karen Lo Xin Xuan | BI23110308
+- Fidaa' Bin Ahmad Fahmi | BI23110057

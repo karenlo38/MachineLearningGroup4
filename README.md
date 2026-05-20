@@ -23,7 +23,7 @@ Random Forest Classifier
 1. Open /data folder.
 2. The dataset file (uci_heart_disease.csv) will be in the folder.
 
-## Coding
+## Coding (Complete Version)
 1. Open /code folder.
 2. Open the complete coding file (07_final.coding.ipynb) provided in the project folder.
 
